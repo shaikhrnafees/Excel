@@ -54,7 +54,7 @@ The project culminates in a dynamic and user-friendly Excel dashboard that integ
 - **Interactive Controls**: The dashboard is equipped with slicers, dropdown menus, and timeline sliders, enabling users to filter data by specific criteria, making exploration intuitive and interactive.
 - **Usability Focus**: The design emphasizes clarity and user experience, with a coherent color scheme, legible fonts, and intuitive layout, ensuring the dashboard is accessible to a wide range of users.
 
-![COVID-19 Dashboard](https://github.com/shaikhrnafees/Excel-Data-Analysis-on-Covid-19/blob/main/DASHBOARD.png)
+![COVID-19 Dashboard](https://github.com/shaikhrnafees/Excel/blob/master/DASHBOARD.png)
 
 ## Conclusion
 This project not only enhances understanding of COVID-19's trajectory in India but also serves as a practical demonstration of data manipulation and visualization techniques in Excel. Through meticulous data cleaning, statistical analysis, and the creation of an interactive dashboard, we have crafted a comprehensive tool for stakeholders and decision-makers to monitor the pandemic's dynamics effectively.
